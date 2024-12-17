@@ -4,7 +4,7 @@ go 1.22
 
 require (
 	github.com/cosmos/cosmos-sdk v0.47.8
-	github.com/evmos/evmos/v17 v17.0.0
+	github.com/evmos/evmos/v17 v17.0.1
 	github.com/pkg/errors v0.9.1
 	github.com/rs/zerolog v1.31.0
 	github.com/spf13/cobra v1.8.0
